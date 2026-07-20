@@ -1,78 +1,38 @@
-# 🎯 Java Quiz Game GUI
+# Java Quiz Game GUI
 
-A Java-based Quiz Game developed with a Graphical User Interface (GUI). The application allows users to answer multiple-choice questions, calculates the final score automatically, and provides an interactive and user-friendly quiz experience.
+## Description
 
-## 📌 Features
+This is a Java-based Quiz Game developed using Java Swing as a university project. The application provides a graphical user interface where users can answer multiple-choice questions, view their scores, and interact with an easy-to-use quiz system.
 
-- 🖥️ Interactive Java Swing GUI
-- ❓ Multiple-choice quiz questions
-- 📊 Automatic score calculation
-- 🎮 Easy-to-use interface
-- 🔄 Real-time question navigation
-- 🏆 Final score display
+## Features
 
----
+- Graphical User Interface (GUI)
+- Multiple-choice quiz questions
+- Automatic score calculation
+- Interactive and user-friendly interface
+- Displays final quiz score
+- Easy navigation between quiz questions
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Java
 - Java Swing
 - NetBeans IDE
 - Object-Oriented Programming (OOP)
 
----
+## How to Run
 
-## 📂 Project Structure
+1. Open the project in NetBeans IDE.
+2. Build the project.
+3. Run the application.
+4. Start the quiz and answer the questions.
+5. View your final score after completing the quiz.
 
-```
-JavaQuizGameGUI/
-│── src/
-│── nbproject/
-│── build.xml
-│── manifest.mf
-```
+## Project Status
 
----
+This project was created for learning Java programming and GUI development. It demonstrates the use of Java Swing components, event handling, Object-Oriented Programming principles, and score management in a desktop application.
 
-## 🚀 How to Run
+## Author
 
-1. Clone this repository.
-2. Open the project in NetBeans IDE.
-3. Build and run the project.
-4. Start answering the quiz questions.
-
----
-
-## 📸 Screenshots
-
-> Add screenshots of your application here.
-
-Example:
-
-- Home Screen
-- Quiz Screen
-- Result Screen
-
----
-
-## 📖 Learning Outcomes
-
-This project demonstrates:
-
-- Java GUI Development
-- Event Handling
-- Object-Oriented Programming
-- User Interface Design
-- Score Management
-- Java Application Development
-
----
-
-## 👩‍💻 Author
-
-**Mahnoor Fatima**
-
+**Mahnoor Fatima**  
 BS Software Engineering Student
-
-University of Gujrat
-
