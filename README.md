@@ -1,69 +1,78 @@
-# JavaQuizGame
+# 🎯 Java Quiz Game GUI
 
-A simple console-based Java Quiz Game developed using Object-Oriented Programming (OOP) concepts. The application asks multiple-choice questions, checks user answers, calculates the score, and displays the final result with a grade.
+A Java-based Quiz Game developed with a Graphical User Interface (GUI). The application allows users to answer multiple-choice questions, calculates the final score automatically, and provides an interactive and user-friendly quiz experience.
 
-## Features
+## 📌 Features
 
-- Console-based user interface
-- Multiple-choice questions
-- Automatic answer checking
-- Score calculation
-- Percentage and grade display
-- Object-Oriented Programming (OOP) implementation
+- 🖥️ Interactive Java Swing GUI
+- ❓ Multiple-choice quiz questions
+- 📊 Automatic score calculation
+- 🎮 Easy-to-use interface
+- 🔄 Real-time question navigation
+- 🏆 Final score display
 
-## Technologies Used
+---
+
+## 🛠️ Technologies Used
 
 - Java
+- Java Swing
 - NetBeans IDE
 - Object-Oriented Programming (OOP)
 
-## Project Structure
+---
+
+## 📂 Project Structure
 
 ```
-QuizGame
-│── Main.java
-│── Quiz.java
-│── Question.java
-│── Player.java
+JavaQuizGameGUI/
+│── src/
+│── nbproject/
+│── build.xml
+│── manifest.mf
 ```
 
-## How to Run
+---
 
-1. Open the project in NetBeans.
-2. Build and run the project.
-3. Enter your name.
-4. Answer each multiple-choice question.
-5. View your final score and grade.
+## 🚀 How to Run
 
-## Sample Output
+1. Clone this repository.
+2. Open the project in NetBeans IDE.
+3. Build and run the project.
+4. Start answering the quiz questions.
 
-```
-JAVA QUIZ GAME
+---
 
-Enter your name: Mahnoor
+## 📸 Screenshots
 
-Question 1
-...
+> Add screenshots of your application here.
 
-Score: 4/5
-Percentage: 80%
-Grade: A
-```
+Example:
 
-## Learning Outcomes
+- Home Screen
+- Quiz Screen
+- Result Screen
 
-- Java programming fundamentals
-- Classes and Objects
-- Constructors
-- Methods
-- Arrays
-- ArrayList
-- User Input using Scanner
-- Object-Oriented Design
+---
 
-## Author
+## 📖 Learning Outcomes
+
+This project demonstrates:
+
+- Java GUI Development
+- Event Handling
+- Object-Oriented Programming
+- User Interface Design
+- Score Management
+- Java Application Development
+
+---
+
+## 👩‍💻 Author
 
 **Mahnoor Fatima**
 
-BS Software Engineering  
+BS Software Engineering Student
+
 University of Gujrat
+
