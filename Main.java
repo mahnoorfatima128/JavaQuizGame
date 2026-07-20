@@ -124,7 +124,7 @@ class LoginScreen extends JFrame {
             String username = userField.getText();
             String password = new String(passField.getPassword());
 
-            Admin admin = new Admin("Haseeb Riaz", "1234");
+            Admin admin = new Admin("Mahnoor Fatima", "1234");
             if (admin.login(username, password)) {
                 JOptionPane.showMessageDialog(this, "Admin login successful!");
                 JOptionPane.showMessageDialog(this, "Welcome " + username + "!");
